@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\controllers\\tayintalebicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\controllers\\tayintalebicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\entities\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\entities\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\middleware\\errorloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\middleware\\errorloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\abpersoneltayinapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\abpersoneltayinapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Migrations\\20250526192649_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ABPersonelTayinAPI\\Migrations\\20250526192649_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|c:\\users\\gokha\\onedrive\\masa\u00FCst\u00FC\\abpersoneltayin\\backend\\abpersoneltayinapi\\abpersoneltayinapi\\migrations\\20250527192036_addlogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2B702-B7AF-4F0A-8F80-246FD618AF95}|ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj|solutionrelative:abpersoneltayinapi\\migrations\\20250527192036_addlogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TayinTalebiController.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\TayinTalebiController.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Controllers\\TayinTalebiController.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\TayinTalebiController.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Controllers\\TayinTalebiController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwHAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:43:00.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Middleware\\ErrorLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Middleware\\ErrorLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Middleware\\ErrorLoggingMiddleware.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Middleware\\ErrorLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:25:30.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250527192036_AddLogTable.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Migrations\\20250527192036_AddLogTable.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Migrations\\20250527192036_AddLogTable.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Migrations\\20250527192036_AddLogTable.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Migrations\\20250527192036_AddLogTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Entities\\Role.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:39:33.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "personel.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Entities\\personel.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Entities\\personel.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Entities\\personel.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Entities\\personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:19:28.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:40:35.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ABPersonelTayinAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj",
+              "RelativeToolTip": "ABPersonelTayinAPI\\ABPersonelTayinAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T19:38:53.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250526192649_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Migrations\\20250526192649_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Migrations\\20250526192649_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Migrations\\20250526192649_InitialCreate.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Migrations\\20250526192649_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:26:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Controllers\\PersonelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:41:32.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\appsettings.json",
+              "RelativeToolTip": "ABPersonelTayinAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T18:32:43.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Program.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:15:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:27:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ABPersonelTayinAPI\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gokha\\OneDrive\\Masa\u00FCst\u00FC\\ABPersonelTayin\\Backend\\ABPersonelTayinAPI\\ABPersonelTayinAPI\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ABPersonelTayinAPI\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:29:31.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
